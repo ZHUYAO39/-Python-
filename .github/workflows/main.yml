@@ -25,4 +25,4 @@ jobs:
           
       
       - name: Run main.py
-        run: python main.py -u 账号19853352072 -p 密码20041012@Jhn -l 261016610
+        run: python main.py -u 19853352072 -p 20041012@Jhn -l 261016610
