@@ -25,4 +25,4 @@ jobs:
           
       
       - name: Run main.py
-        run: python main.py -u 18690764349  -p pai3.1415926535 -l 255513372
+        run: python main.py -u 15960928891  -p Sdut20050603 -l 261016610
